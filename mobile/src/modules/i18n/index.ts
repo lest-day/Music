@@ -9,6 +9,7 @@ import ja from "./translations/ja.json";
 const resources = {
   de: { translation: de },
   en: { translation: en },
+  cn: { translation: cn },
   id: { translation: id },
   ja: { translation: ja },
 };

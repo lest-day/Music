@@ -8,8 +8,8 @@
     "artists": "Artists",
     "folder": "Folder",
     "folders": "Folders",
-    "playlist": "Playlist",
-    "playlists": "Playlists",
+    "playlist": "播放列表",
+    "playlists": "播放列表",
     "track": "Track",
     "tracks": "Tracks",
 
@@ -20,13 +20,13 @@
     "shuffle": "Shuffle",
     "repeat": "Repeat",
 
-    "favorite": "Favorite",
-    "unFavorite": "Unfavorite"
+    "favorite": "喜欢",
+    "unFavorite": "不喜欢"
   },
 
   "header": {
-    "home": "Home",
-    "search": "Search",
+    "home": "首页",
+    "search": "搜索",
 
     "settings": "Settings",
     "appUpdate": "App Update",
@@ -225,6 +225,6 @@
     "actionCancel": "Canceled action.",
     "noSelect": "Nothing selected.",
     "invalidStructure": "Invalid structure.",
-    "usedName": "That name can't be used."
+    "usedName": "此名称不可用。"
   }
 }

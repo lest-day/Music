@@ -1,16 +1,16 @@
 import i18next from "i18next";
 import { initReactI18next } from "react-i18next";
 
+import cn from "./translations/cn.json";
 import de from "./translations/de.json";
 import en from "./translations/en.json";
-import cn from "./translations/cn.json";
 import id from "./translations/id.json";
 import ja from "./translations/ja.json";
 
 const resources = {
+  cn: { translation: cn },
   de: { translation: de },
   en: { translation: en },
-  cn: { translation: cn },
   id: { translation: id },
   ja: { translation: ja },
 };
